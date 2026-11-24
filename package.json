@@ -1,0 +1,15 @@
+{
+  "name": "alkak-erp-admin",
+  "version": "1.0.0",
+  "description": "ALKAK ERP Admin — لوحة تحكم المهندس",
+  "scripts": {
+    "build": "echo Static web ready"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  }
+}
